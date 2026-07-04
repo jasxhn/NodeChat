@@ -3,6 +3,7 @@
 A modern real-time chat application built with the **MERN Stack**, featuring secure authentication, responsive UI, and instant messaging.
 
 🌐 **Live Demo:** https://nodechat-bhzk.onrender.com
+🌐 **Repo Link:** https://github.com/jasxhn/NodeChat
 
 ---
 
@@ -131,6 +132,6 @@ Contributions are welcome!
 
 ## 👨‍💻 Author
 
-**Jash**
+**Jashan Saini**
 
 GitHub: https://github.com/jasxhn
